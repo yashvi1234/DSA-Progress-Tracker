@@ -1,1 +1,9 @@
-#Trees
+- [ ] __Trees__
+  - - [ ] **Introducion**
+  - - [ ] __Binary Trees__
+  - - [ ] __Binary Search Trees__
+  - - [ ] __DFS__
+  - - [ ] __BFS__
+  - - [ ] __AVL Trees__
+  - - [ ] __Segment Tree__
+  - - [ ] __Fenwick Tree / Binary Indexed Tree__
