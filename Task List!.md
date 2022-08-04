@@ -1,5 +1,5 @@
 - [ ] __Trees__
-  - - [ ] **Introducion**
+  - - [ ] **Introduction**
   - - [ ] __Binary Trees__
   - - [ ] __Binary Search Trees__
   - - [ ] __DFS__
